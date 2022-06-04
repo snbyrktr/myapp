@@ -1,3 +1,17 @@
+Bu proje create react app ile başlatıldı.Daha sonrasında json formatlı veri dosyasının okunması için axios kütüphanesiyle 
+dosyadaki veriler çekildi.Bootstrap table içerisine React ile atanan verileri listelemek için BootstrapTable kütüphanesi kullanıldı.
+Bu projede react ile dinamik ve duyarlı bir tablo listelemenin nasıl olacağı gösterildi.Dosyadaki verilerin aranabilmesi
+için filterFactory kütüphanesi kullanıldı.Tablo başlıklarının içine textFilter eklenerek ilgili başlıkların filtrelenmesi
+mümkün hale getirildi..
+
+
+Uygulamayı geliştirme modunda çalıştırır. Tarayıcıda görüntülemek için http://localhost:3000 dosyasını
+açın .Yüklenmeme durumunda sayfayı yeniden yükleyip biraz beklerseniz uygulamamız ekrana düşecektir.
+
+Düzenleme yaparsanız sayfa yeniden yüklenir.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
